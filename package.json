@@ -1,0 +1,12 @@
+{
+  "name": "rdv-slack-netlify",
+  "version": "1.0.0",
+  "dependencies": {
+    "airtable": "^0.12.2",
+    "axios": "^1.6.0",
+    "jsdom": "^23.0.0",
+    "@mozilla/readability": "^0.4.4",
+    "@google/generative-ai": "^0.2.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
